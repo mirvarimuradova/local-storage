@@ -1,0 +1,15 @@
+.reklam{
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    position: absolute;
+    display: none;
+}
+.remove{
+    width: 20px;
+}
+h1{
+    width: 200px;
+    display: inline-block;
+}
